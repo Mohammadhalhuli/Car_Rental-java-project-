@@ -1,0 +1,8 @@
+Vehicle [modelName=Odyssey, modelNo=S500, brand=Honda, engineType=Diesel, tankSize=56.0, fuelConsumption=11.0, owner=Owner@76fb509a, petroleumType=null]
+Vehicle [modelName=Ridgeline, modelNo=DUG700, brand=Honda, engineType=Diesel, tankSize=83.279, fuelConsumption=7.23, owner=Owner@4d405ef7, petroleumType=null]
+Vehicle [modelName=Presage, modelNo=BX5000, brand=Nissan, engineType=Gasoline, tankSize=60.0, fuelConsumption=7.0, owner=Owner@300ffa5d, petroleumType=null]
+Vehicle [modelName=Aqua, modelNo=ES500, brand=Toyota, engineType=Hybrid, tankSize=36.0, fuelConsumption=40.0, owner=Owner@7eda2dbb, petroleumType=null] [numberOfSeats=5, airConditionON=5 cost for 100 km 6.818181818181818
+Vehicle [modelName=Camley, modelNo=E100, brand=Toyota, engineType=Gasoline, tankSize=70.0, fuelConsumption=15.15, owner=Owner@7106e68e, petroleumType=null] [numberOfSeats=5, airConditionON=5 cost for 100 km 18.001800180017998
+Vehicle [modelName=Sienna, modelNo=A4, brand=Toyota, engineType=Gasoline, tankSize=75.0, fuelConsumption=9.0, owner=Owner@6576fe71, petroleumType=null]
+Vehicle [modelName=Tundra, modelNo=EDGE500, brand=Toyota, engineType=Diesel, tankSize=100.0, fuelConsumption=6.76, owner=Owner@1f17ae12, petroleumType=null]
+Vehicle [modelName=Ridgeline, modelNo=DUG700, brand=Honda, engineType=Diesel, tankSize=83.279, fuelConsumption=7.23, owner=null, petroleumType=null]
